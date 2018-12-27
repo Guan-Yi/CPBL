@@ -17,8 +17,8 @@ The basic data visualization of R language applied to analyze the performance of
 * dplyr, ggplot2, gridExtra, data.table  
 
 ### 範例 (example)  
-K% and BB%   
-![image](https://github.com/Guan-Yi/CPBL/blob/master/KB.jpg)  
+* K% and BB%     
+![image](https://github.com/Guan-Yi/CPBL/blob/master/KB.jpg)    
 
 ### 參考 (Reference)  
 * [FanGraphs](https://www.fangraphs.com/library/)    
@@ -29,3 +29,5 @@ K% and BB%
 ### 心得       
 * 分析過程中可能存在人為誤差，故結果僅供參考。   
 * 在公式上有一些參數還沒有校估，故目前是先採用MLB的參數。                           
+* 若有時間，會再加入過去幾年的資料作更進一步分析        
+* 中職加油        
