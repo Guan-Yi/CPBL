@@ -28,5 +28,5 @@ The basic data visualization of R language applied to analyze the performance of
 
 ### 心得       
 * 分析過程中可能存在人為誤差，故結果僅供參考。   
-* 在公式上有一些參數還沒有校估，故目前是先採用MLB的參數。                           
+* 在公式上有一些參數還沒有校估，故目前是先採用MLB的參數(FanGraphs)。                           
 * 會嘗試加入過去幾年的資料作更進一步分析   
