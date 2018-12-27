@@ -16,6 +16,10 @@ The basic data visualization of R language applied to analyze the performance of
 ### 套件 (Packages)  
 * dplyr, ggplot2, gridExtra, data.table  
 
+### 範例 (example)  
+K% and BB%   
+![image](https://github.com/Guan-Yi/CPBL/blob/master/KB.jpg)  
+
 ### 參考 (Reference)  
 * [FanGraphs](https://www.fangraphs.com/library/)    
 * [CPBL](http://www.cpbl.com.tw/stats/all.html)   
