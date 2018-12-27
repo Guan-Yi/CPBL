@@ -8,25 +8,33 @@ The basic data visualization of R language applied to analyze the performance of
  
 ### 原始資料 (Rawdata)     
 * [CPBL](http://www.cpbl.com.tw/stats/all.html)     
-
+     
 ## 開始 (start) 
 ### 棒球統計 (Baseball statistics) 
-* Batter:  
-...*wOBA:  
-...*WRAA:  
-...*K%:     
-...*BB%:      
-...*BABIP:    
-       
-* Pitcher: FIP, K/9    
-
-### 套件 (Packages)  
-* dplyr, ggplot2, gridExtra, data.table  
+#### 打者 (Batter)  
+* wOBA:  
+* WRAA:  
+* K%:     
+* BB%:      
+* BABIP:    
+     
+#### 投手 (Pitcher)
+* FIP:   
+* K/9:        
+    
+### 分析工具 (Tool)
+* R 3.4.4   
+    
+#### 套件 (Packages)  
+* dplyr  
+* ggplot2    
+* gridExtra  
+* data.table     
 
 ### 範例 (example)  
 * K% and BB%     
 ![image](https://github.com/Guan-Yi/CPBL/blob/master/KB.jpg)    
-
+      
 ## 參考資料 (Reference)  
 * [FanGraphs](https://www.fangraphs.com/library/)    
 * [CPBL](http://www.cpbl.com.tw/stats/all.html)   
