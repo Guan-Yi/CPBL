@@ -21,7 +21,7 @@ The basic data visualization of R language applied to analyze the performance of
 * K% and BB%     
 ![image](https://github.com/Guan-Yi/CPBL/blob/master/KB.jpg)    
 
-## 參考 (Reference)  
+## 參考資料 (Reference)  
 * [FanGraphs](https://www.fangraphs.com/library/)    
 * [CPBL](http://www.cpbl.com.tw/stats/all.html)   
 * [台灣棒球維基館](http://twbsball.dils.tku.edu.tw/wiki/index.php?title=%E9%A6%96%E9%A0%81)    
