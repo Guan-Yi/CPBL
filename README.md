@@ -6,9 +6,7 @@ The analysis of basic sabermetrics applied in CPBL. (continue)
 The basic data visualization of R language applied to analyze the performance of batters and pitchers in CPBL.         
 用R語言，針對中華職棒(2018)的野手與投手表現，進行基礎的視覺化分析。     
  
-###### 原始資料 (Rawdata)     
-* [CPBL](http://www.cpbl.com.tw/stats/all.html)     
-
+ 
 ## 棒球統計 (Baseball statistics) 
 ### 打者 (Batter)  
 * wOBA:  
