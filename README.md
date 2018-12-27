@@ -1,4 +1,4 @@
-# CPBL
+## CPBL
 The analysis of basic sabermetrics applied in CPBL. (continue)      
 用簡單的賽柏計量學來分析中華職棒大聯盟 (待續)       
 
