@@ -1,8 +1,8 @@
-### CPBL
+# CPBL
 The analysis of basic sabermetrics applied in CPBL. (continue)      
 用簡單的賽柏計量學來分析中華職棒大聯盟 (待續)       
 
-### 前言 (Foreword)
+## 前言 (Foreword)
 The basic data visualization of R language applied to analyze the performance of batters and pitchers in CPBL.         
 用R語言，針對中華職棒(2018)的野手與投手表現，進行基礎的視覺化分析。     
  
