@@ -11,8 +11,8 @@ The basic data visualization of R language applied to analyze the performance of
 
 ## 開始 (start) 
 ### 棒球統計 (Baseball statistics) 
-* Batter: 
- * wOBA:
+* Batter:  
+.* wOBA:
  * WRAA:
  * K%:
  * BB%:
