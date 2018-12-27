@@ -27,7 +27,7 @@ The basic data visualization of R language applied to analyze the performance of
 * [台灣棒球維基館](http://twbsball.dils.tku.edu.tw/wiki/index.php?title=%E9%A6%96%E9%A0%81)    
 * [PTT_Baseball](https://www.ptt.cc/bbs/Baseball/M.1508090433.A.834.html)    
 
-### 心得       
+## 心得       
 * 分析過程中可能存在人為誤差，故結果僅供參考。   
 * 在公式上有一些參數還沒有校估，故目前是先採用MLB的參數(FanGraphs)。                           
 * 尚未完成，逐步修訂中  
