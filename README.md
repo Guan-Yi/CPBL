@@ -2,7 +2,7 @@
 The analysis of basic sabermetrics applied in CPBL.     
 用簡單的賽柏計量學來分析中華職棒大聯盟     
 
-## 前言 (Foreword)       
+## 前言
 用R語言，針對中華職棒(2018)的野手與投手表現，進行基礎的視覺化分析。     
  
 ## 棒球統計 (Baseball statistics) 
@@ -15,18 +15,18 @@ The analysis of basic sabermetrics applied in CPBL.
      
 ### 投手 (Pitcher)
 * Fielding Independent Pitching (FIP)
-* K/9 = SO * 9 / IP 
+* K/9 = (SO * 9) / IP 
 
-## 分析 (Analyze)
-### 分析工具 (Tool)
+## 方法
+### 工具
 * R 3.4.4   
-### 套件 (Packages)  
+### 套件  
 * dplyr  
 * ggplot2    
 * gridExtra  
 * data.table     
 
-### 範例 (example)  
+### 範例  
 * K% and BB%     
 ![image](https://github.com/Guan-Yi/CPBL/blob/master/KB.jpg)    
       
@@ -37,6 +37,6 @@ The analysis of basic sabermetrics applied in CPBL.
 * [PTT_Baseball](https://www.ptt.cc/bbs/Baseball/M.1508090433.A.834.html)    
 
 ## 心得       
-* 分析過程中可能存在人為誤差，故結果僅供參考。   
-* 在公式上有一些參數還沒有校估，故目前是先採用MLB的參數(FanGraphs)。                           
-* 尚未完成，逐步修訂中  
+* 分析過程中可能存在人為誤差。   
+* 公式參數未進行校估，故計算結果未必符合現況，僅供參考。                           
+* 本文尚未完成，逐步修訂中  
