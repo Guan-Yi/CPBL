@@ -29,8 +29,12 @@ The analysis of basic sabermetrics applied in CPBL.
 * gridExtra  
 * data.table     
 
-### 範例  
-
+### 結果 (部分)
+* wOBA vs. PA
+![img](https://github.com/Guan-Yi/CPBL/blob/master/result/woba.jpg)
+![img]()
+![img]()
+![img]()
       
 ## 參考資料 (Reference)  
 * [FanGraphs](https://www.fangraphs.com/library/)    
