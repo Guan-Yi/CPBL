@@ -2,7 +2,7 @@
 The analysis of basic sabermetrics applied in CPBL.     
 用簡單的賽柏計量學來分析中華職棒大聯盟     
 
-## 前言
+## 簡介
 用R語言，針對中華職棒(2018)的野手與投手表現，進行基礎的視覺化分析。     
  
 ## 棒球統計 (Baseball statistics) 
