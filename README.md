@@ -29,8 +29,8 @@ The analysis of basic sabermetrics applied in CPBL.
 * gridExtra  
 * data.table     
      
-### 結果 (部分)
-#### Batter
+### 結果
+#### 打者部分：
 ![img](https://github.com/Guan-Yi/CPBL/blob/master/result/woba.jpg)    
 ![img](https://github.com/Guan-Yi/CPBL/blob/master/result/K%25.jpg)     
 ![img](https://github.com/Guan-Yi/CPBL/blob/master/result/KBB%25.jpg)     
@@ -38,7 +38,7 @@ The analysis of basic sabermetrics applied in CPBL.
 ![img](https://github.com/Guan-Yi/CPBL/blob/master/result/AOS.jpg)     
 ![img](https://github.com/Guan-Yi/CPBL/blob/master/result/KBB%25T.jpg)    
     
-#### Pitcher       
+#### 投手部分：    
 ![img](https://github.com/Guan-Yi/CPBL/blob/master/result/FIP.jpg)    
 ![img](https://github.com/Guan-Yi/CPBL/blob/master/result/KBB9.jpg)   
 ![img](https://github.com/Guan-Yi/CPBL/blob/master/result/KBB9T.jpg)   
@@ -50,7 +50,7 @@ The analysis of basic sabermetrics applied in CPBL.
 * [PTT_Baseball](https://www.ptt.cc/bbs/Baseball/M.1508090433.A.834.html)    
 
 ## 心得  
-* 圖表可以提供一些有趣的資訊，打破觀賞球賽時的刻板印象
+* 圖表可以提供一些有趣的資訊，打破觀賞球賽時的刻板印象。
 * 分析過程中可能存在人為誤差。   
 * 公式參數未進行校估，故計算結果未必符合現況。                           
 * 本文尚未完成，逐步修訂中  
