@@ -21,6 +21,8 @@ The analysis of basic sabermetrics applied in CPBL.
 ## 方法
 ### 工具
 * R 3.4.4   
+* RStudio 1.1.442
+
 ### 套件  
 * dplyr  
 * ggplot2    
