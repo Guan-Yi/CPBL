@@ -48,6 +48,7 @@ The analysis of basic sabermetrics applied in CPBL.
 * [CPBL](http://www.cpbl.com.tw/stats/all.html)   
 * [台灣棒球維基館](http://twbsball.dils.tku.edu.tw/wiki/index.php?title=%E9%A6%96%E9%A0%81)    
 * [PTT_Baseball](https://www.ptt.cc/bbs/Baseball/M.1508090433.A.834.html)    
+* [樞紐棒球](https://shunyubaseball.wordpress.com/)
 
 ## 備註
 * 圖表可以提供一些有趣的資訊，打破觀賞球賽時的刻板印象。
