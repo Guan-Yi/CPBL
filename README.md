@@ -9,9 +9,9 @@ The analysis of basic sabermetrics applied in CPBL.
 ### 打者 (Batter)  
 * Weighted On-Base Average (wOBA)
 * Weighted Runs Above Average (wRAA)
+* Batting Average on Balls In Play (BABIP) = (H - HR) / (AB - SO - HR + SF)
 * K% =  K / PA
 * BB% = BB / PA
-* BABIP = (H - HR) / (AB - SO - HR + SF)
      
 ### 投手 (Pitcher)
 * Fielding Independent Pitching (FIP)
