@@ -1,4 +1,4 @@
-## 棒球統計學 CPBL
+## Saber in CPBL 
 The analysis of basic sabermetrics applied in CPBL.     
 用簡單的棒球統計學來分析中華職棒大聯盟     
    
