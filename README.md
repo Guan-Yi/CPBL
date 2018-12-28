@@ -9,7 +9,7 @@ The basic data visualization of R language applied to analyze the performance of
 ## 棒球統計 (Baseball statistics) 
 ### 打者 (Batter)  
 * Weighted On-Base Average (wOBA): 加權上壘率
-  * 公式：(0.69*BB + 0.7*HBP + 0.79*1B + 1.08*2B + 1.39*3B + 1.76*HR) / (AB + BB + SF + HBP)
+  * 公式：$(0.69*BB + 0.*HBP + 0.79*1B + 1.08*2B + 1.39*3B + 1.76*HR) / (AB + BB + SF + HBP)$
 * WRAA:  
 * K%:     
 * BB%:      
