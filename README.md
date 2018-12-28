@@ -43,6 +43,9 @@ The analysis of basic sabermetrics applied in CPBL.
 ![img](https://github.com/Guan-Yi/CPBL/blob/master/result/KBB9.jpg)   
 ![img](https://github.com/Guan-Yi/CPBL/blob/master/result/KBB9T.jpg)   
 
+#### 跨年度
+![img](https://github.com/Guan-Yi/CPBL/blob/master/result/avg1718.jpg)
+
 ## 參考資料 (Reference)  
 * [FanGraphs](https://www.fangraphs.com/library/)    
 * [CPBL](http://www.cpbl.com.tw/stats/all.html)   
