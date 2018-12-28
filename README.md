@@ -16,6 +16,7 @@ The analysis of basic sabermetrics applied in CPBL.
 ### 投手 (Pitcher)
 * Fielding Independent Pitching (FIP)
 * K/9 = (SO * 9) / IP 
+* BB/9 = (SO * 9) / IP
 
 ## 方法
 ### 工具
