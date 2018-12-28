@@ -27,8 +27,7 @@ The analysis of basic sabermetrics applied in CPBL.
 * data.table     
 
 ### 範例  
-* K% and BB%     
-![image](https://github.com/Guan-Yi/CPBL/blob/master/KB.jpg)    
+
       
 ## 參考資料 (Reference)  
 * [FanGraphs](https://www.fangraphs.com/library/)    
