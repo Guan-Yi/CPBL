@@ -30,11 +30,18 @@ The analysis of basic sabermetrics applied in CPBL.
 * data.table     
 
 ### 結果 (部分)
-* wOBA vs. PA
-![img](https://github.com/Guan-Yi/CPBL/blob/master/result/woba.jpg)
-![img]()
-![img]()
-![img]()
+* Batter
+![img](https://github.com/Guan-Yi/CPBL/blob/master/result/woba.jpg)    
+![img](https://github.com/Guan-Yi/CPBL/blob/master/result/K%25.jpg)     
+![img](https://github.com/Guan-Yi/CPBL/blob/master/result/KBB%25.jpg)     
+![img](https://github.com/Guan-Yi/CPBL/blob/master/result/BABIP.jpg)     
+![img](https://github.com/Guan-Yi/CPBL/blob/master/result/AOS.jpg)     
+![img](https://github.com/Guan-Yi/CPBL/blob/master/result/KBB%25T.jpg)    
+#+
+* Pitcher       
+![img](https://github.com/Guan-Yi/CPBL/blob/master/result/FIP.jpg)    
+![img](https://github.com/Guan-Yi/CPBL/blob/master/result/KBB9.jpg)   
+![img](https://github.com/Guan-Yi/CPBL/blob/master/result/KBB9T.jpg)   
       
 ## 參考資料 (Reference)  
 * [FanGraphs](https://www.fangraphs.com/library/)    
@@ -42,7 +49,9 @@ The analysis of basic sabermetrics applied in CPBL.
 * [台灣棒球維基館](http://twbsball.dils.tku.edu.tw/wiki/index.php?title=%E9%A6%96%E9%A0%81)    
 * [PTT_Baseball](https://www.ptt.cc/bbs/Baseball/M.1508090433.A.834.html)    
 
-## 心得       
+## 心得  
+* 圖表可以提供一些有趣的資訊，打破觀賞球賽時的刻板印象
 * 分析過程中可能存在人為誤差。   
-* 公式參數未進行校估，故計算結果未必符合現況，僅供參考。                           
+* 公式參數未進行校估，故計算結果未必符合現況。                           
 * 本文尚未完成，逐步修訂中  
+* 一切資訊以官方提供為主，本文僅供參考。
