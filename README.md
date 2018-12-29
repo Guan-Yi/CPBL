@@ -29,7 +29,8 @@ The analysis of basic sabermetrics applied in CPBL.
 * gridExtra  
 * data.table     
 
-### 資料處理
+### 資料
+* 資料來源：CPBL官方網站
 * 有效樣本：PA >= 50 或 IP >= 10
      
 ### 結果
