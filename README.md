@@ -7,6 +7,7 @@ The analysis of basic sabermetrics applied in CPBL.
     
 ## 棒球統計 (Baseball statistics) 
 ### 打者 (Batter)  
+* On-base percentage Plus Slugging Percentage (OPS) = OBP + SLG
 * Weighted On-Base Average (wOBA)   
 <div align=center><img width="660" height="51" src='https://github.com/Guan-Yi/CPBL/blob/master/formula/woba_formula.jpg'/></div>  
 
