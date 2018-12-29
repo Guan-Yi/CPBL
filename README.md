@@ -38,7 +38,7 @@ The analysis of basic sabermetrics applied in CPBL.
 
 ### 資料
 * 資料來源：CPBL官方網站
-* 有效樣本：PA >= 50 或 IP >= 10
+* 有效樣本：該年度 PA >= 50 或 IP >= 10
      
 ### 結果
 #### 打者部分：
