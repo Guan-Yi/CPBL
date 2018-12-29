@@ -59,9 +59,9 @@ The analysis of basic sabermetrics applied in CPBL.
 #### 2017 vs. 2018：
 ![img](https://github.com/Guan-Yi/CPBL/blob/master/result/%E6%89%93%E8%80%85%E4%B8%89%E5%9C%8D_1718%E6%AF%94%E8%BC%83.jpg)
 
-### 小結
+### 小結 (2018.12.29)
 * 打者：王柏融的實力毋庸置疑，期待他未來在日職的表現。
-* 投手：黃子鵬、吳世豪值得繼續關注；李振昌的表現目前仍超出這個聯盟的層級。
+* 投手：黃子鵬、吳世豪值得關注；李振昌的表現目前仍超出這個聯盟的層級，希望繼續維持他的宰制力。
 
 ## 參考資料 (Reference)  
 * [FanGraphs](https://www.fangraphs.com/library/)    
