@@ -20,6 +20,7 @@ The analysis of basic sabermetrics applied in CPBL.
 * BB% = BB / PA  
      
 ### 投手 (Pitcher)
+* ERA+ = (League ERA / ERA) * 100
 * Fielding Independent Pitching (FIP)  
 <div align=center><img width="545" height="51" src='https://github.com/Guan-Yi/CPBL/blob/master/formula/FIP_formula.jpg'/></div>  
 
@@ -43,10 +44,20 @@ The analysis of basic sabermetrics applied in CPBL.
      
 ### 結果
 #### 打者部分：
-    
-#### 投手部分：    
+![img](https://github.com/Guan-Yi/CPBL/blob/master/result/woba_rbi.jpg)  
+![img](https://github.com/Guan-Yi/CPBL/blob/master/result/wraa_g.jpg)
+![img](https://github.com/Guan-Yi/CPBL/blob/master/result/babip_r.jpg)
+![img](https://github.com/Guan-Yi/CPBL/blob/master/result/%E5%90%84%E9%9A%8A%E6%89%93%E8%80%85%E4%B8%89%E5%9C%8D%E7%9B%92%E7%8B%80%E5%9C%96.jpg)
+![img](https://github.com/Guan-Yi/CPBL/blob/master/result/%E5%90%84%E9%9A%8A%E6%89%93%E8%80%85K%E5%92%8CBB%E7%9B%92%E7%8B%80%E5%9C%96.jpg)
 
-#### 跨年度：
+#### 投手部分：    
+![img](https://github.com/Guan-Yi/CPBL/blob/master/result/fip_era.jpg)
+![img](https://github.com/Guan-Yi/CPBL/blob/master/result/fip_erap.jpg)
+![img](https://github.com/Guan-Yi/CPBL/blob/master/result/k9_bb9.jpg)
+![img](https://github.com/Guan-Yi/CPBL/blob/master/result/%E5%90%84%E9%9A%8A%E6%8A%95%E6%89%8B%E6%95%B8%E6%93%9A%E7%9B%92%E7%8B%80%E5%9C%96.jpg)
+
+#### 2017 vs. 2018：
+![img](https://github.com/Guan-Yi/CPBL/blob/master/result/%E6%89%93%E8%80%85%E4%B8%89%E5%9C%8D_1718%E6%AF%94%E8%BC%83.jpg)
 
 ## 參考資料 (Reference)  
 * [FanGraphs](https://www.fangraphs.com/library/)    
@@ -59,5 +70,4 @@ The analysis of basic sabermetrics applied in CPBL.
 * 圖表可以提供一些有趣的資訊，打破觀賞球賽時的刻板印象。
 * 分析過程中可能存在人為誤差。   
 * 公式參數未進行詳細校估，故計算結果未必符合現況。                           
-* 本文尚未完成，逐步修訂中  
-* 一切資訊以官方提供為主，本文僅供參考。
+* 一切資訊以官方提供為主，本文僅供參考。  
