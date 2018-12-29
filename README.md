@@ -9,7 +9,7 @@ The analysis of basic sabermetrics applied in CPBL.
 ### 打者 (Batter)  
 * Weighted On-Base Average (wOBA)   
 
-![](https://github.com/Guan-Yi/CPBL/blob/master/formula/woba_formula.jpg | width=100)
+![img](https://github.com/Guan-Yi/CPBL/blob/master/formula/woba_formula.jpg)
 
 * Weighted Runs Above Average (wRAA)   
 * Batting Average on Balls In Play (BABIP) = (H - HR) / (AB - SO - HR + SF)
