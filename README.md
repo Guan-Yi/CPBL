@@ -28,6 +28,9 @@ The analysis of basic sabermetrics applied in CPBL.
 * ggplot2    
 * gridExtra  
 * data.table     
+
+### 資料處理
+* 有效樣本：PA >= 50 或 IP >= 10
      
 ### 結果
 #### 打者部分：
