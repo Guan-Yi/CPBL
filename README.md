@@ -8,9 +8,9 @@ The analysis of basic sabermetrics applied in CPBL.
 ## 棒球統計 (Baseball statistics) 
 ### 打者 (Batter)  
 * Weighted On-Base Average (wOBA)   
- * 公式:
-![img](https://github.com/Guan-Yi/CPBL/blob/master/formula/wobp_formula.jpg)   
-* Weighted Runs Above Average (wRAA)
+                        
+![img](https://github.com/Guan-Yi/CPBL/blob/master/formula/wobp_formula.jpg)      
+* Weighted Runs Above Average (wRAA)   
 * Batting Average on Balls In Play (BABIP) = (H - HR) / (AB - SO - HR + SF)
 * K% =  K / PA
 * BB% = BB / PA
