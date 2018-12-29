@@ -42,20 +42,10 @@ The analysis of basic sabermetrics applied in CPBL.
      
 ### 結果
 #### 打者部分：
-![img](https://github.com/Guan-Yi/CPBL/blob/master/result/woba.jpg)    
-![img](https://github.com/Guan-Yi/CPBL/blob/master/result/K%25.jpg)     
-![img](https://github.com/Guan-Yi/CPBL/blob/master/result/KBB%25.jpg)     
-![img](https://github.com/Guan-Yi/CPBL/blob/master/result/BABIP.jpg)     
-![img](https://github.com/Guan-Yi/CPBL/blob/master/result/AOS.jpg)     
-![img](https://github.com/Guan-Yi/CPBL/blob/master/result/KBB%25T.jpg)    
     
 #### 投手部分：    
-![img](https://github.com/Guan-Yi/CPBL/blob/master/result/FIP.jpg)    
-![img](https://github.com/Guan-Yi/CPBL/blob/master/result/KBB9.jpg)   
-![img](https://github.com/Guan-Yi/CPBL/blob/master/result/KBB9T.jpg)   
 
 #### 跨年度：
-![img](https://github.com/Guan-Yi/CPBL/blob/master/result/avg1718.jpg)
 
 ## 參考資料 (Reference)  
 * [FanGraphs](https://www.fangraphs.com/library/)    
