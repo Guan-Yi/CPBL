@@ -56,7 +56,7 @@ The analysis of basic sabermetrics applied in CPBL.
 ![img](https://github.com/Guan-Yi/CPBL/blob/master/result/k9_bb9.jpg)
 ![img](https://github.com/Guan-Yi/CPBL/blob/master/result/%E5%90%84%E9%9A%8A%E6%8A%95%E6%89%8B%E6%95%B8%E6%93%9A%E7%9B%92%E7%8B%80%E5%9C%96.jpg)
 
-#### 2017 vs. 2018：
+#### 2017 vs. 2018 (打者)：
 ![img](https://github.com/Guan-Yi/CPBL/blob/master/result/%E6%89%93%E8%80%85%E4%B8%89%E5%9C%8D_1718%E6%AF%94%E8%BC%83.jpg)
 
 ### 小結 (2018.12.29)
