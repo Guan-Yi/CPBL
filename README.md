@@ -59,6 +59,10 @@ The analysis of basic sabermetrics applied in CPBL.
 #### 2017 vs. 2018：
 ![img](https://github.com/Guan-Yi/CPBL/blob/master/result/%E6%89%93%E8%80%85%E4%B8%89%E5%9C%8D_1718%E6%AF%94%E8%BC%83.jpg)
 
+### 小結
+* 打者：王柏融的實力毋庸置疑，期待他未來在日職的表現。
+* 投手：黃子鵬、吳世豪值得繼續關注；李振昌的表現目前仍超出這個聯盟的層級。
+
 ## 參考資料 (Reference)  
 * [FanGraphs](https://www.fangraphs.com/library/)    
 * [CPBL](http://www.cpbl.com.tw/stats/all.html)   
@@ -67,7 +71,7 @@ The analysis of basic sabermetrics applied in CPBL.
 * [樞紐棒球](https://shunyubaseball.wordpress.com/)
 
 ## 備註
-* 圖表可以提供一些有趣的資訊，打破觀賞球賽時的刻板印象。
+* 透過圖表，可以得到一些有趣的資訊，打破觀賞球賽時的刻板印象。
 * 分析過程中可能存在人為誤差。   
 * 公式參數未進行詳細校估，故計算結果未必符合現況。                           
 * 一切資訊以官方提供為主，本文僅供參考。  
